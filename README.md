@@ -7,3 +7,5 @@
    \ \__\ \__\ \__\\ \__\     \ \__\/__/ /    \ \_______\ \_______\/__/ /
     \|__|\|__|\|__| \|__|      \|__||__|/      \|_______|\|_______||__|/
 ```
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChinaDragonNB)](https://github.com/anuraghazra/github-readme-stats)
