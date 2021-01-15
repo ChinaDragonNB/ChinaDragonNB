@@ -9,3 +9,4 @@
 ```
 
 
+<iframe src="https://www.ak47007.com/genshin/" width="480" height=500></iframe>
