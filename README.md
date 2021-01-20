@@ -8,5 +8,4 @@
     \|__|\|__|\|__| \|__|      \|__||__|/      \|_______|\|_______||__|/
 ```
 
-
-![1](https://genshin-card.getloli.com/0/199958347.png)
+![原神](https://genshin-card.getloli.com/detail/0/199958347.png?v=1)
