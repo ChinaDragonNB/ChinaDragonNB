@@ -18,6 +18,7 @@
 * 说明：培训时长两年半，喜欢增删改查
 * 座右铭：每天早上叫醒我的不是闹钟，是梦想
 
+[![AK47007](https://www.ak47007.com/007.jpg)](https://www.ak47007.com)
 
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=ChinaDragonNB)]()
