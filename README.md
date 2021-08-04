@@ -8,6 +8,6 @@
     \|__|\|__|\|__| \|__|      \|__||__|/      \|_______|\|_______||__|/
 ```
 
-### Genshin Impact
 
-![原神](https://genshin-card.getloli.com/detail/0/199958347.png?v=1)
+
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=ChinaDragonNB)]()
